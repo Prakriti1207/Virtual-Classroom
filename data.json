@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Lecture 1",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "comments": [
+      { "commentText": "This is a great lecture!" },
+      { "commentText": "I didn't understand the concept." }
+    ]
+  },
+  {
+    "name": "Lecture 2",
+    "videoUrl": "https://www.youtube.com/watch?v=JNQXAC9IVRw",
+    "comments": [
+      { "commentText": "This lecture is so boring." },
+      { "commentText": "I love the examples!" }
+    ]
+  }
+]
